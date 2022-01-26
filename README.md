@@ -10,8 +10,7 @@ Simple Weather displays the weather information for a desire location. This app 
 
 Live netlify demo of the application can be found here:
 
-# Credits
+### Credits
 
 Thank you Adrian Hajdin from JavaScript Mastery for the tutorial on this application development
 github: https://github.com/adrianhajdin
-youtube: https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A
