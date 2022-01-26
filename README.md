@@ -9,6 +9,7 @@ Simple Weather displays the weather information for a desire location. This app 
 ### Live demo
 
 Live netlify demo of the application can be found here:
+https://practical-payne-f9fe3d.netlify.app/
 
 ### Credits
 
