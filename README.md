@@ -13,5 +13,5 @@ https://practical-payne-f9fe3d.netlify.app/
 
 ### Credits
 
-Thank you Adrian Hajdin from JavaScript Mastery for the tutorial on this application development
+Thank you Adrian Hajdin from JavaScript Mastery for the tutorial on this application development.
 github: https://github.com/adrianhajdin
