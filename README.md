@@ -4,7 +4,7 @@ Simple Weather is a progressive web application developed with React.js
 
 ## Feature
 
-Simple Weather displays the weather information for a desire location. This app is intended to work on any platform that uses a standards-compliant browser, including both desktop and mobile devices. Simple Weather can be open from a web browser or as a sepate application in all operating system.
+Simple Weather displays the weather information for a desire location. This app is intended to work on any platform that uses a standards-compliant browser, including both desktop and mobile devices. Simple Weather can be open from a web browser or as a separate application in all operating system.
 
 ### Live demo
 
