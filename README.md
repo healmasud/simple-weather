@@ -11,10 +11,10 @@ https://practical-payne-f9fe3d.netlify.app/
 
 ![Pic](https://raw.githubusercontent.com/healmasud/simple-weather/master/github-overview/desktop.png)
 
-## Music Player
+## Web search
 
 ![Pic](https://raw.githubusercontent.com/healmasud/simple-weather/master/github-overview/web-search.png)
 
-## Library Section
+## Web landing
 
 ![Pic](https://raw.githubusercontent.com/healmasud/simple-weather/master/github-overview/web-landing.png)
