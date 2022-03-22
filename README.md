@@ -18,3 +18,16 @@ https://practical-payne-f9fe3d.netlify.app/
 ## Web landing
 
 ![Pic](https://raw.githubusercontent.com/healmasud/simple-weather/master/github-overview/web-landing.png)
+
+
+## Install the project
+- Clone the repository
+- Run npm install
+```
+    npm install 
+```
+- Run npm start
+```
+    npm start 
+```
+
