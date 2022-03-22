@@ -22,11 +22,10 @@ https://practical-payne-f9fe3d.netlify.app/
 
 ## Install the project
 - Clone the repository
-- Run npm install
+- Run the following command
 ```
     npm install 
 ```
-- Run npm start
 ```
     npm start 
 ```
